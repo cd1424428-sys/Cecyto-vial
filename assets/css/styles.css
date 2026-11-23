@@ -1,0 +1,13 @@
+:root {
+    --primary-dark: #212529;
+    --accent-yellow: #ffc107;
+    --secondary-gray: #6c757d;
+}
+
+.bg-dark-custom {
+    background-color: var(--primary-dark) !important;
+}
+
+.hero-vial {
+    background: linear-gradient(135deg, #212529, #343a40);
+}
